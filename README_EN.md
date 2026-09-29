@@ -115,7 +115,7 @@ The build script automatically:
 ## 📁 Project Structure
 
 ```text
-FreeNow/
+FreePEP/
 ├── pep_core.py          # Core library (AES decryption, Playwright scraping, PDF compilation)
 ├── webui.py             # FastAPI WebUI server and all-in-one frontend
 ├── cli.py               # Interactive and argument-driven CLI downloader
@@ -148,7 +148,9 @@ playwright install chromium
 
 1. This project is intended for web-scraping study, reverse-engineering research, and personal learning only. Any commercial use is strictly prohibited.
 2. All textbooks downloaded via this project are copyrighted by the **People's Education Press (PEP)** and relevant rights holders. This project is not affiliated with or authorized by the People's Education Press.
-3. Please control request rates. Do not impose excessive load on official servers. Delete downloaded content within 24 hours; purchase official publications for long-term use.
+3. Please control request rates. Do not impose excessive load on official servers. Delete downloaded content within 24 hours. For long-term use, please purchase or support official publications through official channels:
+   - [PEP Official Website](https://www.pep.com.cn/) (textbook information and purchase)
+   - [PEP Digital Textbook Platform](https://jc.pep.com.cn/) (official free online reading)
 4. This project is a derivative work based on [siknet/FreePEP](https://github.com/siknet/FreePEP) and is provided "as is" under the MIT license, **without warranty of any kind**. Neither the original author nor the maintainer of this fork shall be liable for any direct or indirect losses arising from its use.
 5. Users bear full responsibility for any legal disputes arising from copyright violations or improper use, and both the original author and the maintainer of this fork are held harmless.
 
